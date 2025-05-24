@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🌟 Apresentação
 
-<!--
-**rrisadora/rrisadora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo **Isadora Rodrigues** 👋  
+Sou estudante do **2º ano do Ensino Médio Técnico** em **tempo integral** no **SENAI/SESI**, cursando **Desenvolvimento de Sistemas** 💻.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Meus interesses
+
+- **Desenvolvimento de Sistemas**
+- **Robótica** 🤖
+- **Geomorfologia** 🌍
+
+Meu objetivo é seguir carreira em **Geografia** 🗺️.
+
+---
+
+## 🚀 Projetos e Experiências
+
+Atualmente, participo do projeto:  
+**Previsão de Deslizamentos e Mobilização Social para Aprimorar o Sistema de Alerta**  
+Esse projeto tem me proporcionado o desenvolvimento de habilidades em **Robótica** e trabalho em equipe.
+
+---
+
+## 🎨 Paixões e Hobbies
+
+Além da tecnologia, sou apaixonada por artes e adoro:
+
+- 📸 Fotografar  
+- 🎤 Cantar  
+- 📚 Estudar minhas áreas de interesse
